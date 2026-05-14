@@ -1,5 +1,5 @@
 :root {
-  --bg: #f4efe7;
+  --bg: #ebe2d6;
   --bg-soft: rgba(255, 255, 255, 0.52);
   --surface: rgba(255, 248, 240, 0.82);
   --text: #1d1a17;
@@ -26,9 +26,9 @@ body {
   font-family: "Manrope", sans-serif;
   color: var(--text);
   background:
-    radial-gradient(circle at top left, rgba(232, 151, 97, 0.28), transparent 32%),
-    radial-gradient(circle at 85% 15%, rgba(109, 160, 152, 0.2), transparent 24%),
-    linear-gradient(180deg, #f8f3ec 0%, #f1e6da 100%);
+    radial-gradient(circle at top left, rgba(220, 139, 84, 0.28), transparent 32%),
+    radial-gradient(circle at 85% 15%, rgba(96, 145, 137, 0.2), transparent 24%),
+    linear-gradient(180deg, #f0e6db 0%, #e7d7c8 100%);
 }
 
 body::before {
